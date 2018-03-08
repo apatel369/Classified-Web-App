@@ -1,0 +1,51 @@
+﻿
+.ad {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 50px;
+    -webkit-column-rule-width: 10px;
+     -webkit-column-rule: 5px solid black;
+    background: linear-gradient(to top, #f5c856 0%, #ffffcc 100%);
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);  
+    margin-top:50px;
+    padding:10px;
+    border-radius:8px;
+    width:1200PX;
+    margin-left:80PX;
+}
+
+
+.image img
+{
+    padding: 5px 20px 5px 5px;
+    bottom:5px;
+    width:450px;
+    height:350px;
+    border:solid;
+    margin:30px 2px 10px 10px ;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);  
+}
+.ItemDesc{
+    margin-top:10px;
+}
+
+h4 h3{
+    font-size:35px;
+}
+#myBtn
+{
+     width: 50%;
+     margin:8px 70px;
+     padding: 10px 10px;
+     cursor:pointer;
+     font-size:20px;
+     color:black;
+     background-color:white;
+     text-align:center;
+}
+#myBtn:hover
+{
+    background-color:burlywood;
+    color:white;
+    opacity:0.8;
+}
+
